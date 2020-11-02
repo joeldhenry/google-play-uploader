@@ -2,7 +2,7 @@
 
 .Net Application to Upload APK or AAB to Google Play Console.
 
-- Note: in order to use this application, you must [create a service acount](#create-google-service-account-&-auth-file)
+- Note: in order to use this application, you must [create a service acount](#create-google-service-account--auth-file)
 
 ### Build
 
